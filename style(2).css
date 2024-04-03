@@ -1,0 +1,448 @@
+.bi{
+    color: orange;
+    font-size: 60px;
+    float: right;
+    padding-right: 40px;
+    transform: translateY(-45px);
+        }
+    
+.inner-box1{
+    background-color: rgba(83, 76, 76, 0.795);
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+.btn1{
+    border: 1px solid orange;
+}
+.sec1{
+    padding-bottom: 20px;
+    background-image: url(build1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.inner-box2{
+    background-image: url(civill.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 230px;
+    }
+p.h4{
+    font-size: 20px;
+}
+.inner-box3{
+    margin-top: 55px;
+}
+.inner-box4{
+    background-color: rgba(92, 87, 87, 0.233);
+    text-align: center;
+    padding-top: 25px ;
+    padding-bottom:20px;
+    margin-top: 100px;
+}
+.sec3{
+    padding-top: 50px;
+    background-color: rgba(155, 145, 145, 0.342);
+}
+p.h5{
+    font-size:18px ;
+}
+.inner-box5{
+    text-align: right;
+}
+img.ext{
+    width:50%;
+    text-align: right;
+}
+img.eng{
+    width: 60%;
+}
+.bi2{
+    color: orange;
+    font-size: 30px;
+    display: inline-block;
+    transform: translateY(-10px);
+}
+h1{
+    font-size: 60px;
+}
+.inner-box6{
+    background-color: orange;
+    height:170px;
+    overflow: hidden;
+    margin: 5px;
+}
+.inner-box7{
+    background-image: url(construction1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 170px;
+    overflow: hidden;
+    background-position:top;
+    margin: 5px;
+          }
+   .inner-box8{
+    background-color:white;
+    height: 170px;
+    overflow: hidden;
+    margin: 5px;
+}
+.inner-box9{
+    background-image: url(hammer1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    overflow: hidden;
+    margin: 5px;
+    background-position:top;
+   }
+ .inner-box10{
+    background-image: url(carpentry.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    overflow: hidden;
+    margin: 5px;
+    background-position:center;
+   }
+.sec4{
+    background-image:url(laptop.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-Y: center;
+    
+    }
+.inner-box11{
+    text-align: center;
+    padding: 30px;
+}
+.bi3{
+    font-size: 50px;
+    color: orange;
+    }
+.inner-box12{
+    background-color: orange;
+}
+.bi4{
+    color: black;
+    font-size: 30px;
+    display: inline-block;
+    transform: translateY(-10px);
+}
+.box1{
+    height:150px;
+    padding:20px;
+    margin: 20px;
+    background-color: rgb(226, 197, 103);
+}
+.box2{
+    height: 390px;
+    margin: 20px;
+    text-align: center;
+    background-color: rgba(214, 205, 188, 0.849);
+    transform: translateY(-20px);
+}
+.btn2{
+    background-color:rgb(226, 197, 103);
+    border: 1px solid rgb(226, 197, 103) ;
+}
+.box3{
+    height:150px;
+    padding:20px ;
+    margin: 20px;
+    background-color:orange;
+}
+.box4{
+    height: 390px;
+    margin: 20px;
+    text-align: center;
+    background-color:rgb(205, 219, 219);
+    transform: translateY(-20px);
+}
+
+.inner-box15{
+    text-align: center;
+}
+.inner-box16{
+   text-align: center;
+       }
+.inner-box17{
+     padding-top:20px;  
+     text-align: center;
+     }
+.sec7{
+    background-image: url(company.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.inner-box18{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.inner-box19{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.inner-box20{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.inner-box21{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.inner-box22{
+    padding-top: 25px ;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.b2{
+    border: 1px solid white;
+}
+.sec8{
+    background-color: aliceblue;
+}
+.inner-box23{
+    background-color: lightgray;
+    text-align: center;
+    }
+.inner-box24{
+    background-color: lightgray;
+    text-align: center;
+}
+.inner-box25{
+    margin-bottom: 35px;
+    text-align: center;
+}
+.inner-box26{
+    padding: 40px;
+    margin-top: 25px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.inner-box27{
+    padding: 40px;
+    margin-top: 25px;
+    background-color: orange;
+    text-align: center;
+}
+.bi5{
+    color:orange;
+    font-size: 70px;
+    text-align: center;
+}
+.bi6{
+    color:white;
+    font-size: 70px;
+    text-align: center;
+}
+.bi7{
+    color:orange;
+    font-size: 70px;
+    text-align: center;
+}
+.sec9{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-image: url(buildd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x:center;
+}
+p.la{
+    padding-top: 50px;
+}
+@media(max-width:1200px){
+    p.h4{
+     font-size: 17px;
+   }
+   .inner-box2{
+    padding-top:200px;
+    padding-bottom:0px;
+    background-image: url(civill.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+           }
+ .inner-box3{
+            margin-top: 40px;
+        }
+   .inner-box4{
+     background-color: rgba(92, 87, 87, 0.233);
+     text-align: center;
+     padding-top: 30px ;
+     padding-bottom: 20px;
+     margin-top:80px;
+     }
+ img.eng{
+    width:60%;
+    text-align: left;
+    padding-top: 10px;
+ }
+ img.ext{
+    width: 70%;
+    text-align: right;
+ }
+}
+@media(max-width:992px){
+    .inner-box2{
+        padding-top:190px;
+        padding-bottom:0px;
+        background-image: url(civill.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+               }
+        .inner-box4{
+            background-color: rgba(92, 87, 87, 0.233);
+            text-align: center;
+            padding-top: 10px ;
+            padding-bottom: 10px;
+            margin-top:15px;
+                  }
+    .inner-box5{
+             text-align: left;
+             margin: 5px;
+                            }
+p.h3{
+    font-size: 14px;
+}
+p.h5{
+    font-size: 15px;
+}
+p.h6{
+    font-size: 15px;
+}
+img.ext{
+    width: 90%;
+    text-align:right;
+     }
+ img.eng{
+    width: 70%;
+ }
+}
+@media(max-width:991px){
+    .inner-box4{
+        margin:15px;
+    }
+}
+@media(max-width:768px){
+    p.h3{
+        font-size: 16px ;
+    }
+    p.h4{
+        font-size: 15px;
+    }
+    p.h5{
+        font-size: 14px;
+    }
+    p.h6{
+        font-size: 15px;
+    }
+    h4.ab{
+        font-size: 15px;
+    }
+    .inner-box3{
+        margin-top: 10px;
+    }
+    img.ext{
+        width: 100%;
+    }
+   img.eng{
+        width: 100%;
+    }
+.inner-box3{
+    margin: 10px;
+}
+    .inner-box4{
+        background-color: rgba(92, 87, 87, 0.233);
+        text-align: center;
+        padding-top: 10px ;
+        padding-bottom: 10px;
+        margin-top: 50px;
+        margin: 5px;
+              }
+.inner-box23{
+        background-color: lightgray;
+        text-align: center;
+        margin: 10px;
+        }
+        .inner-box24{
+            background-color: lightgray;
+            text-align: center;
+            margin: 10px;
+            }
+            h1.re{
+                font-size: 30px;
+            }
+            .inner-box10{
+                background-image: url(carpentry.jpg);
+                background-size: cover;
+                background-repeat: no-repeat;
+                height: 170px;
+                overflow: hidden;
+                margin: 5px;
+                background-position:center;
+                background-position-y: 70%;
+               }
+}
+@media(max-width:769px){
+      .inner-box23{
+        background-color: lightgray;
+        text-align: center;
+        margin: 15px;
+        }
+        .inner-box24{
+            background-color: lightgray;
+            text-align: center;
+            margin: 15px;
+            }
+           }
+@media(max-width:576px){
+    .h1{
+        font-size:20px ;
+    }
+    p.h3{
+        font-size:14px ;
+    }
+    p.h5{
+        font-size:15px;
+          }
+    h4.ab{
+      font-size: 15px;
+          }
+   p.h6.de{
+            font-size:15px;
+        }
+ p.h6{
+    font-size: 12px;
+ }
+        }
+  .inner-box15{
+     text-align: center;
+             }
+ .inner-box16{
+            text-align: center;
+ }
+.inner-box17{
+    text-align: center;
+}   
+.inner-box23{
+    background-color: lightgray;
+    text-align: center;
+    }
+.inner-box24{
+    background-color: lightgray;
+    text-align: center;
+}
+        
